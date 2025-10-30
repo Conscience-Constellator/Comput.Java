@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="CC.Encycloped.Abs.Org.Comput.Soft.Ling.Java" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="CC.List" />
+    <orderEntry type="module" module-name="CC.TXt" />
+    <orderEntry type="module" module-name="CC.Fun" />
+    <orderEntry type="module" module-name="CC.NAm" />
+    <orderEntry type="module" module-name="CC.Reg" />
+    <orderEntry type="module" module-name="CC.Comput" />
+    <orderEntry type="module" module-name="CC.UI" />
+    <orderEntry type="module" module-name="CC.Bool" />
+    <orderEntry type="module" module-name="CC.Prim" />
+    <orderEntry type="module" module-name="CC.List.Plus" />
+    <orderEntry type="module" module-name="CC.Conect" />
+    <orderEntry type="module" module-name="CC.Comput.Java.Rap" />
+    <orderEntry type="module" module-name="CC.Comput.Java.Rflect" />
+    <orderEntry type="module" module-name="CC.$.1$" />
+    <orderEntry type="module" module-name="CC.$.$1" />
+    <orderEntry type="module" module-name="CC.$.1$1.$Bool" />
+    <orderEntry type="module" module-name="CC.List.Util" />
+  </component>
+</module>
